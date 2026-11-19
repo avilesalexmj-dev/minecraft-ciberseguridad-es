@@ -37,5 +37,5 @@ cyber.addDenyFirewallRule(cyber.requireHat(WearingHat.NoHat))
 Parece que la anomalía no lleva sombrero y tampoco lleva nada en la mano.
 
 ```package
-ciberseguridad-es=github:avilesalexmj-dev/minecraft-ciberseguridad-es
+minecraft-ciberseguridad-es=github:avilesalexmj-dev/minecraft-ciberseguridad-es
 ```
