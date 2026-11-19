@@ -1,13 +1,11 @@
 {
     "name": "minecraft-ciberseguridad-es",
-    "description": "Bloques y tutoriales en español para el mapa Daring Defense (Defensa Audaz) de Minecraft Education",
+    "description": "Bloques y tutoriales en espa\u00f1ol para el mapa Daring Defense (Defensa Audaz) de Minecraft Education",
     "dependencies": {
         "core": "*",
         "builder": "*"
     },
     "files": [
-        "cyber_kingdom.ts",
-        "custom.ts",
         "README.md",
         "firewall_1.md",
         "firewall_2.md",
