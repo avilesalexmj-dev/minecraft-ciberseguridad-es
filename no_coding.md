@@ -22,5 +22,5 @@ loops.onStart()
 ```
 
 ```package
-ciberseguridad-es=github:avilesalexmj-dev/minecraft-ciberseguridad-es
+minecraft-ciberseguridad-es=github:avilesalexmj-dev/minecraft-ciberseguridad-es
 ```
