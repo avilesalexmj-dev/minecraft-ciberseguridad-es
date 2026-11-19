@@ -7,12 +7,12 @@
     },
     "files": [
         "README.md",
-        "firewall_1.md",
-        "firewall_2.md",
-        "firewall_3.md",
-        "firewall_4.md",
-        "firewall_5.md",
-        "firewall_6.md",
+        "cortafuegos_1.md",
+        "cortafuegos_2.md",
+        "cortafuegos_3.md",
+        "cortafuegos_4.md",
+        "cortafuegos_5.md",
+        "cortafuegos_6.md",
         "no_coding.md"
     ],
     "testFiles": [],
