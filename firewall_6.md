@@ -48,5 +48,5 @@ Fíjate bien en los escudos de los soldados. ¿Podríamos filtrar por ellos? ¡P
 
 
 ```package
-ciberseguridad-es=github:avilesalexmj-dev/minecraft-ciberseguridad-es
+minecraft-ciberseguridad-es=github:avilesalexmj-dev/minecraft-ciberseguridad-es
 ```
