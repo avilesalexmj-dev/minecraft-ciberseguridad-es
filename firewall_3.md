@@ -36,5 +36,5 @@ cyber.addDenyFirewallRule(cyber.requireLegs(Legs.OverFourLegs))
 
 
 ```package
-minecraft-ciberseguridad-es=github:avilesalexmj-dev/minecraft-ciberseguridad-es
+bloques-ciberseguridad-es=github:avilesalexmj-dev/pxt-ciberseguridad-es
 ```
