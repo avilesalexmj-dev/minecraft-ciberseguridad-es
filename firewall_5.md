@@ -37,5 +37,5 @@ cyber.addDenyFirewallRule(cyber.ruleAnd(cyber.requireHat(WearingHat.NoHat), cybe
 ¿Qué llevan siempre los espías cuando quieren ocultar quiénes son?
 
 ```package
-minecraft-ciberseguridad-es=github:avilesalexmj-dev/minecraft-ciberseguridad-es
+bloques-ciberseguridad-es=github:avilesalexmj-dev/pxt-ciberseguridad-es
 ```
